@@ -1,0 +1,13 @@
+Befehle an die ich mich erinnere:
+- ls
+- cd
+- mkdir
+- rmdir
+- touch
+- rm
+- mv
+- cp
+- cat
+- wc
+- cut
+- grep
