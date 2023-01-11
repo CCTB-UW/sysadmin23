@@ -1,0 +1,10 @@
+Befehle an die ich mich erinnere:
+- ls
+- cd
+- touch
+- -a
+- less
+- mkdir
+- rmdir
+- rm
+
