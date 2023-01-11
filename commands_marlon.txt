@@ -1,0 +1,10 @@
+Befehle an die ich micht erinnere:
+
+-ls
+-cd 
+-mkdir 
+-rmdir 
+-tail  
+-git add
+-touch 
+-ls -a 
