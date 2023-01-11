@@ -9,5 +9,4 @@ Befehle an die ich mich erinnere:
 - cp
 - cat
 - wc
-- cut
-- grep
+- sort
